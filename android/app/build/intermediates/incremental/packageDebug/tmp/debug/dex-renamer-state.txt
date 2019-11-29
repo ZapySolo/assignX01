@@ -1,0 +1,4 @@
+#Fri Nov 29 19:16:11 IST 2019
+base.0=/Users/zapy/Developer/react_native/assignX1/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
